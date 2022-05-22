@@ -91,24 +91,24 @@ python idiomBot.py
 
 程序就能够运行起来了，终端提示显示：
 
-![image-20220522224753733](C:\Users\22867\AppData\Roaming\Typora\typora-user-images\image-20220522224753733.png)
+![image](https://user-images.githubusercontent.com/43106882/169703297-9582d532-c63a-4a7f-b741-b2f046447075.png)
 
 接着在频道内输入开始游戏的指令：“/接龙”，可以看到下面的输出：
 
-![image-20220522231134099](C:\Users\22867\AppData\Roaming\Typora\typora-user-images\image-20220522231134099.png)
+![image](https://user-images.githubusercontent.com/43106882/169703329-2a6acd68-b9cc-444e-b596-66ba7eff3ef2.png)
 
 如果输入正确的成语，能够跟机器人的成语接得上，可看到以下输出：
 
-![image-20220522231305715](C:\Users\22867\AppData\Roaming\Typora\typora-user-images\image-20220522231305715.png)
+![image](https://user-images.githubusercontent.com/43106882/169703344-74f871c0-5818-444a-ab9d-7543d3af8718.png)
 
 如果输入的不是一个成语，得到如下输出：
 
-![image-20220522231453226](C:\Users\22867\AppData\Roaming\Typora\typora-user-images\image-20220522231453226.png)
+![image](https://user-images.githubusercontent.com/43106882/169703354-a732c24c-b02f-4f3e-80df-fb6fe0f41ec8.png)
 
 如果输入的是成语，但是为错误答案，则得到如下输出：
 
-![image-20220522231909126](C:\Users\22867\AppData\Roaming\Typora\typora-user-images\image-20220522231909126.png)
+![image](https://user-images.githubusercontent.com/43106882/169703364-892483dd-e03c-4835-a941-5b99e00e3544.png)
 
 如果输入为非法字符，可以得到：
 
-![image-20220522231945026](C:\Users\22867\AppData\Roaming\Typora\typora-user-images\image-20220522231945026.png)# QRobot
+![image](https://user-images.githubusercontent.com/43106882/169703383-418cf9ac-c4b3-4d62-bf35-18a35091bb84.png)
