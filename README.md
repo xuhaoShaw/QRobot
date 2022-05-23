@@ -1,3 +1,7 @@
+# 频道二维码
+![1](https://user-images.githubusercontent.com/43106882/169767729-2f582e6e-2fc5-4c0e-b8d8-33759023e7bc.jpg width="500px")
+
+
 # 使用说明
 
 ## 环境搭建
