@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T06:57:57.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ORsrZcyoGjLUGiFRs_37" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T07:02:50.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pMmwlCkmSA8vhOgxwz36" version="24.2.8" type="github">
   <diagram name="第 1 页" id="hDYtWIxzfEqBtP1Cjkg2">
     <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="8SR--FJlMm__Suw2POkN-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="440" width="660" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="8SR--FJlMm__Suw2POkN-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;履带式移动平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8SR--FJlMm__Suw2POkN-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;履带式移动底盘&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="450" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8SR--FJlMm__Suw2POkN-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;传感器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -46,16 +46,16 @@
         <mxCell id="8SR--FJlMm__Suw2POkN-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="660" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="8SR--FJlMm__Suw2POkN-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;机械臂抓取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="140" height="50" as="geometry" />
+        <mxCell id="8SR--FJlMm__Suw2POkN-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;机械臂轨迹规划&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8SR--FJlMm__Suw2POkN-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;操控平台运动&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8SR--FJlMm__Suw2POkN-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;操控机器人运动&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8SR--FJlMm__Suw2POkN-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;视觉图像获取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="160" y="270" width="140" height="50" as="geometry" />
+          <mxGeometry x="480" y="210" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8SR--FJlMm__Suw2POkN-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;路径规划&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8SR--FJlMm__Suw2POkN-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;底盘路径规划&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="210" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8SR--FJlMm__Suw2POkN-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;具&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;身&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;智&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;能&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -75,6 +75,18 @@
         </mxCell>
         <mxCell id="8SR--FJlMm__Suw2POkN-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;路径规划&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="60" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8SR--FJlMm__Suw2POkN-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;目标检测&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="210" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8SR--FJlMm__Suw2POkN-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;机械臂抓取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8SR--FJlMm__Suw2POkN-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;语音听写&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8SR--FJlMm__Suw2POkN-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;语音合成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="270" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
